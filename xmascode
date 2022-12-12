@@ -1,0 +1,331 @@
+/* $textSplit[Robert Stefani Daniel Tiffani Ciara Jesus Tyler Patricia; ]
+$let[d1;$arrayGet[$random[1;8]]]
+$arrayRemove[$random[1;8]]
+$let[d2;$arrayGet[$random[1;7]]]
+$arrayRemove[$random[1;7]]
+$let[d3;$arrayGet[$random[1;6]]]
+$arrayRemove[$random[1;6]]
+$let[d4;$arrayGet[$random[1;5]]]
+$arrayRemove[$random[1;5]]
+$let[d5;$arrayGet[$random[1;4]]]
+$arrayRemove[$random[1;4]]
+$let[d6;$arrayGet[$random[1;3]]]
+$arrayRemove[$random[1;3]]
+$let[d7;$arrayGet[$random[1;2]]]
+$arrayRemove[$random[1;2]]
+$let[d8;$arrayGet[1]]
+$sendMessage[First half of the drawing:
+1. $get[d1]
+2. $get[d2]
+3. $get[d3]
+4. $get[d4]
+5. $get[d5]
+6. $get[d6]
+7. $get[d7]
+8. $get[d8]
+
+Merry Christmas!] */
+$textSplit[Robert Stefani Daniel Tiffani Ciara Jesus Tyler Patricia; ]
+$let[d11;$arrayGet[$random[1;8]]]
+$if[$get[d11]==Jesus||$get[d11]==Tiffani]
+    $resetRandom
+    $let[d11;$arrayGet[$random[1;8]]]
+    $if[$get[d11]==Jesus||$get[d11]==Tiffani]
+        $resetRandom
+        $let[d11;$arrayGet[$random[1;8]]]
+        $if[$get[d11]==Jesus||$get[d11]==Tiffani]
+            $resetRandom
+            $let[d11;$arrayGet[$random[1;8]]]
+            $if[$get[d11]==Jesus||$get[d11]==Tiffani]
+                $resetRandom
+                $let[d11;$arrayGet[$random[1;8]]]
+                $if[$get[d11]==Jesus||$get[d11]==Tiffani]
+                    $resetRandom
+                    $let[d11;$arrayGet[$random[1;8]]]
+                    $if[$get[d11]==Jesus||$get[d11]==Tiffani]
+                        $resetRandom
+                        $let[d11;$arrayGet[$random[1;8]]]
+                        $if[$get[d11]==Jesus||$get[d11]==Tiffani]
+                            $resetRandom
+                            $let[d11;$arrayGet[$random[1;8]]]
+                            $if[$get[d11]==Jesus||$get[d11]==Tiffani]
+                                $resetRandom
+                                $let[d22;$arrayGet[$random[1;8]]]'
+                                $if[$get[d11]==Jesus||$get[d11]==Tiffani]
+                                    $resetRandom
+                                    $let[d11;$arrayGet[$random[1;8]]]
+                                    $if[$get[d11]==Jesus||$get[d11]==Tiffani]
+                                        $stop[bad luck drawing yourself andor your partner on a scale of 8]
+                                    $endIf
+                                $endIf
+                            $endIf
+                        $endIf
+                    $endIf
+                $endIf
+            $endIf
+        $endIf
+    $endIf
+$endIf
+$arrayRemove[$random[1;8]]
+$let[d22;$arrayGet[$random[1;7]]]
+$if[$get[d22]==Jesus||$get[d11]==Tiffani]
+    $resetRandom
+    $let[d22;$arrayGet[$random[1;7]]]
+    $if[$get[d22]==Jesus||$get[d22]==Tiffani]
+        $resetRandom
+        $let[d22;$arrayGet[$random[1;7]]]
+        $if[$get[d22]==Jesus||$get[d22]==Tiffani]
+            $resetRandom
+            $let[d22;$arrayGet[$random[1;7]]]
+            $if[$get[d22]==Jesus||$get[d22]==Tiffani]
+                $resetRandom
+                $let[d22;$arrayGet[$random[1;7]]]
+                $if[$get[d22]==Jesus||$get[d22]==Tiffani]
+                    $resetRandom
+                    $let[d22;$arrayGet[$random[1;7]]]
+                    $if[$get[d22]==Jesus||$get[d22]==Tiffani]
+                        $resetRandom
+                        $let[d22;$arrayGet[$random[1;7]]]
+                        $if[$get[d22]==Jesus||$get[d22]==Tiffani]
+                            $resetRandom
+                            $let[d22;$arrayGet[$random[1;7]]]
+                            $if[$get[d22]==Jesus||$get[d22]==Tiffani]
+                                $resetRandom
+                                $let[d22;$arrayGet[$random[1;7]]]'
+                                $if[$get[d22]==Jesus||$get[d22]==Tiffani]
+                                    $resetRandom
+                                    $let[d22;$arrayGet[$random[1;7]]]
+                                    $if[$get[d22]==Jesus||$get[d22]==Tiffani]
+                                        $stop[bad luck drawing yourself andor your partner on a scale of 7]
+                                    $endIf
+                                $endIf
+                            $endIf
+                        $endIf
+                    $endIf
+                $endIf
+            $endIf
+        $endIf
+    $endIf
+$endIf
+$arrayRemove[$random[1;7]
+$let[d33;$arrayGet[$random[1;6]]]
+$if[$get[d33]==Ciara||$get[d33]==Tyler]
+    $resetRandom
+    $let[d33;$arrayGet[$random[1;6]]]
+    $if[$get[d33]==Ciara||$get[d33]==Tyler]
+        $resetRandom
+        $let[d33;$arrayGet[$random[1;6]]]
+        $if[$get[d33]==Ciara||$get[d33]==Tyler]
+            $resetRandom
+            $let[d33;$arrayGet[$random[1;6]]]
+            $if[$get[d33]==Ciara||$get[d33]==Tyler]
+                $resetRandom
+                $let[d33;$arrayGet[$random[1;6]]]
+                $if[$get[d33]==Ciara||$get[d33]==Tyler]
+                    $resetRandom
+                    $let[d33;$arrayGet[$random[1;6]]]
+                    $if[$get[d33]==Ciara||$get[d33]==Tyler]
+                        $resetRandom
+                        $let[d33;$arrayGet[$random[1;6]]]
+                        $if[$get[d33]==Ciara||$get[d33]==Tyler]
+                            $resetRandom
+                            $let[d33;$arrayGet[$random[1;6]]]
+                            $if[$get[d33]==Ciara||$get[d33]==Tyler]
+                                $resetRandom
+                                $let[d33;$arrayGet[$random[1;6]]]'
+                                $if[$get[d33]==Ciara||$get[d33]==Tyler]
+                                    $resetRandom
+                                    $let[d33;$arrayGet[$random[1;6]]]
+                                    $if[$get[d33]==Ciara||$get[d33]==Tyler]
+                                        $stop[bad luck drawing yourself andor your partner on a scale of 6]
+                                    $endIf
+                                $endIf
+                            $endIf
+                        $endIf
+                    $endIf
+                $endIf
+            $endIf
+        $endIf
+    $endIf
+$endIf
+$arrayRemove[$random[1;6]]
+$let[d44;$arrayGet[$random[1;5]]]
+$if[$get[d44]==Ciara||$get[d44]==Tyler]
+    $resetRandom
+    $let[d44;$arrayGet[$random[1;5]]]
+    $if[$get[d44]==Ciara||$get[d44]==Tyler]
+        $resetRandom
+        $let[d44;$arrayGet[$random[1;5]]]
+        $if[$get[d44]==Ciara||$get[d44]==Tyler]
+            $resetRandom
+            $let[d44;$arrayGet[$random[1;5]]]
+            $if[$get[d44]==Ciara||$get[d44]==Tyler]
+                $resetRandom
+                $let[d44;$arrayGet[$random[1;5]]]
+                $if[$get[d44]==Ciara||$get[d44]==Tyler]
+                    $resetRandom
+                    $let[d44;$arrayGet[$random[1;5]]]
+                    $if[$get[d44]==Ciara||$get[d44]==Tyler]
+                        $resetRandom
+                        $let[d44;$arrayGet[$random[1;5]]]
+                        $if[$get[d44]==Ciara||$get[d44]==Tyler]
+                            $resetRandom
+                            $let[d44;$arrayGet[$random[1;5]]]
+                            $if[$get[d44]==Ciara||$get[d44]==Tyler]
+                                $resetRandom
+                                $let[d44;$arrayGet[$random[1;5]]]'
+                                $if[$get[d44]==Ciara||$get[d44]==Tyler]
+                                    $resetRandom
+                                    $let[d44;$arrayGet[$random[1;5]]]
+                                    $if[$get[d44]==Ciara||$get[d44]==Tyler]
+                                        $stop[bad luck drawing yourself andor your partner on a scale of 5]
+                                    $endIf
+                                $endIf
+                            $endIf
+                        $endIf
+                    $endIf
+                $endIf
+            $endIf
+        $endIf
+    $endIf
+$endIf
+$arrayRemove[$random[1;5]]
+$let[d55;$arrayGet[$random[1;4]]]
+$if[$get[d55]==Patricia||$get[d55]==Daniel]
+    $resetRandom
+    $let[d55;$arrayGet[$random[1;4]]]
+    $if[$get[d55]==Patricia||$get[d55]==Daniel]
+        $resetRandom
+        $let[d55;$arrayGet[$random[1;4]]]
+        $if[$get[d55]==Patricia||$get[d55]==Daniel]
+            $resetRandom
+            $let[d55;$arrayGet[$random[1;4]]]
+            $if[$get[d55]==Patricia||$get[d55]==Daniel]
+                $resetRandom
+                $let[d55;$arrayGet[$random[1;4]]]
+                $if[$get[d55]==Patricia||$get[d55]==Daniel]
+                    $resetRandom
+                    $let[d55;$arrayGet[$random[1;4]]]
+                    $if[$get[d55]==Patricia||$get[d55]==Daniel]
+                        $resetRandom
+                        $let[d55;$arrayGet[$random[1;4]]]
+                        $if[$get[d55]==Patricia||$get[d55]==Daniel]
+                            $resetRandom
+                            $let[d55;$arrayGet[$random[1;4]]]
+                            $if[$get[d55]==Patricia||$get[d55]==Daniel]
+                                $resetRandom
+                                $let[d55;$arrayGet[$random[1;4]]]
+                                $if[$get[d55]==Patricia||$get[d55]==Daniel]
+                                    $resetRandom
+                                    $let[d55;$arrayGet[$random[1;4]]]
+                                    $if[$get[d55]==Patricia||$get[d55]==Daniel]
+                                        $stop[bad luck drawing yourself andor your partner on a scale of 4]
+                                    $endIf
+                                $endIf
+                            $endIf
+                        $endIf
+                    $endIf
+                $endIf
+            $endIf
+        $endIf
+    $endIf
+$endIf
+$arrayRemove[$random[1;4]]
+$let[d66;$arrayGet[$random[1;3]]]
+$if[$get[d66]==Patricia||$get[d66]==Daniel]
+    $resetRandom
+    $let[d66;$arrayGet[$random[1;3]]]
+    $if[$get[d66]==Patricia||$get[d66]==Daniel]
+        $resetRandom
+        $let[d66;$arrayGet[$random[1;3]]]
+        $if[$get[d66]==Patricia||$get[d66]==Daniel]
+            $resetRandom
+            $let[d66;$arrayGet[$random[1;3]]]
+            $if[$get[d66]==Patricia||$get[d66]==Daniel]
+                $resetRandom
+                $let[d66;$arrayGet[$random[1;3]]]
+                $if[$get[d66]==Patricia||$get[d66]==Daniel]
+                    $resetRandom
+                    $let[d66;$arrayGet[$random[1;3]]]
+                    $if[$get[d66]==Patricia||$get[d66]==Daniel]
+                        $resetRandom
+                        $let[d66;$arrayGet[$random[1;3]]]
+                        $if[$get[d66]==Patricia||$get[d66]==Daniel]
+                            $resetRandom
+                            $let[d66;$arrayGet[$random[1;3]]]
+                            $if[$get[d66]==Patricia||$get[d66]==Daniel]
+                                $resetRandom
+                                $let[d66;$arrayGet[$random[1;3]]]
+                                $if[$get[d66]==Patricia||$get[d66]==Daniel]
+                                    $resetRandom
+                                    $let[d66;$arrayGet[$random[1;3]]]
+                                    $if[$get[d66]==Patricia||$get[d66]==Daniel]
+                                        $stop[bad luck drawing yourself andor your partner on a scale of 3]
+                                    $endIf
+                                $endIf
+                            $endIf
+                        $endIf
+                    $endIf
+                $endIf
+            $endIf
+        $endIf
+    $endIf
+$endIf
+$arrayRemove[$random[1;3]]
+$let[d77;$arrayGet[$random[1;2]]]
+$if[$get[d77]==Stefani]
+    $resetRandom
+    $let[d77;$arrayGet[$random[1;2]]]
+    $if[$get[d77]==Stefani]
+        $resetRandom
+        $let[d77;$arrayGet[$random[1;2]]]
+        $if[$get[d77]==Stefani]
+            $resetRandom
+            $let[d77;$arrayGet[$random[1;2]]]
+            $if[$get[d77]==Stefani]
+                $resetRandom
+                $let[d77;$arrayGet[$random[1;2]]]
+                $if[$get[d77]==Stefani]
+                    $resetRandom
+                    $let[d77;$arrayGet[$random[1;2]]]
+                    $if[$get[d77]==Stefani]
+                        $resetRandom
+                        $let[d77;$arrayGet[$random[1;2]]]
+                        $if[$get[d77]==Stefani]
+                            $resetRandom
+                            $let[d77;$arrayGet[$random[1;2]]]
+                            $if[$get[d77]==Stefani]
+                                $resetRandom
+                                $let[d77;$arrayGet[$random[1;2]]]
+                                $if[$get[d77]==Stefani]
+                                    $resetRandom
+                                    $let[d77;$arrayGet[$random[1;2]]]
+                                    $if[$get[d77]==Stefani]
+                                        $stop[bad luck drawing yourself on a scale of 2]
+                                    $endIf
+                                $endIf
+                            $endIf
+                        $endIf
+                    $endIf
+                $endIf
+            $endIf
+        $endIf
+    $endIf
+$endIf
+$arrayRemove[$random[1;2]]
+$let[d88;$arrayGet[1]]
+$if[$get[d88]==Robert]
+    $stop[Try again, Robert got himself.]
+$endIf
+$sendMessage[The :christmas_tree: Drawing for 2022 is:
+
+1 Jesus - $get[d11]
+2 Tiffani - $get[d22]
+3 Ciara - $get[d33]
+4 Tyler - $get[d44]
+5 Patricia - $get[d55]
+6 Daniel - $get[d66]
+7 Stefani - $get[d77]
+8 Robert - $get[d88]
+
+Merry Christmas!]
